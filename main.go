@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	// Print your name
-	fmt.Println("Harshavardhan")
+	fmt.Println("Harsha")
 }
